@@ -4,7 +4,7 @@ using System.Text;
 
 namespace AhynovRM
 {
-    internal class New_Class
+    internal class New_Class2
     {
     }
 }

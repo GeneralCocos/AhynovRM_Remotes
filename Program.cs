@@ -1,1 +1,1 @@
-﻿Console.WriteLine("Hello, World!");
+﻿// Ахунов Руслан Маратович Ам-1-25
