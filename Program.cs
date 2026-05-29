@@ -1,6 +1,4 @@
-﻿// Ахунов Руслан Маратович Ам-1-25
-//solve task3
-internal class Program
+﻿internal class Program
 {
     static public double Sqr(double X)
     {
@@ -13,3 +11,7 @@ internal class Program
         Console.WriteLine(Sqr(5));
     }
 }
+// Ахунов Руслан Маратович Ам-1-25
+//solve task2
+//solve task1
+//solve task3
